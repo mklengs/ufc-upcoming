@@ -1,0 +1,22 @@
+{
+  "name": "ufc-upcoming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mklengs/ufc-upcoming.git"
+  },
+  "author": "mklengs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mklengs/ufc-upcoming/issues"
+  },
+  "homepage": "https://github.com/mklengs/ufc-upcoming#readme"
+}
