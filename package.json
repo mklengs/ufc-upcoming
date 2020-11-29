@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/mklengs/ufc-upcoming/issues"
   },
-  "homepage": "https://github.com/mklengs/ufc-upcoming#readme"
+  "homepage": "https://github.com/mklengs/ufc-upcoming#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
 }
